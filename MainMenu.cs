@@ -20,7 +20,7 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("GameplayRun");
     }
-     public void CreditsScene()
+    public void CreditsScene()
         {
             SceneManager.LoadScene("Credits");
         }
